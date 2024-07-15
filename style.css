@@ -121,7 +121,7 @@ body{
  .home{
    position: relative;
     min-height: 100vh;
-    background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)),url("chcken-home.jpg") center/cover no-repeat fixed;
+    background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6)),url("chicken-home.jpg") center/cover no-repeat fixed;
  }
  .home-section{
    text-align: center;
